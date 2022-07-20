@@ -1,0 +1,146 @@
+.title {
+  color: #02ccba;
+}
+
+.container{
+  width:1170px;
+  margin: 0 auto;
+}
+
+.top-wrapper{
+  padding-top:50px;
+  padding-bottom:100px;
+  background-image:url(https://image.freepik.com/free-photo/white-cloud-blue-sky_74190-2381.jpg);
+  color: black;
+  background-size: cover;
+  }
+
+.top-wrapper h1{
+  opacity:1.5;
+  font-size:50px;
+  letter-spacing:5px;
+  text-align:center;
+}
+
+.top-wrapper h2{
+    letter-spacing: 3px;
+    text-align:center
+    font-size:30px
+}
+
+.top-wrapper h3{
+  font-size:17px;
+  color:red;
+}
+
+.top-wrapper p{
+  font: size 14px;
+}
+
+
+
+
+
+.btn{
+  padding:8px 24px;
+  color:black;
+  display:inline-block;
+  opacity:0.8;
+}
+
+.signup{
+  background-color:#239b76;
+}
+
+
+
+.btn-wrapper{
+  margin:20px 0;
+}
+
+header{
+  height:65px;
+  width:100%;
+  position:fixed;
+  background-color:white;
+  width:1400px;
+  z-index:10;
+  top:0;
+}
+
+.logo{
+  height:65px;
+  width:124px;
+  float:left;
+}
+
+.header-left a{
+  line-height: 65px;
+  padding-left:30px;
+  padding-right:30px;
+  letter-spacing: 10px;
+}
+
+
+
+.category-wrapper{
+  height:500px;
+  padding-bottom:10px;
+  background-color:#f7f7f7;
+  text-align:center;
+}
+
+.heading{
+  padding-top:60px;
+  padding-bottom:30px;
+  color:#5f5d60;
+}
+
+.heading h2{
+  font-weight:normal;
+}
+
+.category{
+  float:left;
+  width:25%;
+}
+
+.category-icon{
+  position:relative;
+}
+
+.category-icon p{
+  position:absolute;
+  top:150px;
+  width:100%;
+  color:black;
+}
+.message-wrapper{
+  text-align:center;
+  background-color:#f7f7f7;
+  padding-top:10px;
+  padding-bottom:10px;
+  border-top:1px solid #eee;
+}
+
+footer img{
+  width:124px;
+  font-size:12px;
+  padding-top:10px;
+  height:65px;
+
+}
+
+footer p{
+  font-size:12px;
+  color:#b3aeb5;
+  margin-bottom:10px;
+}
+
+footer{
+  border-top:1px solid #eee;
+  height:20px;
+  width:100%;
+  width:1400px;
+
+  }
