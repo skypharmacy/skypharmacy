@@ -123,6 +123,11 @@ header{
   border-top:1px solid #eee;
 }
 
+.message-wrapper img{
+  width:100px
+}
+  
+
 footer img{
   width:124px;
   font-size:12px;
